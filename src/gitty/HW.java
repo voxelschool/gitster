@@ -3,6 +3,6 @@ package gitty;
 public class HW {
 
 	public HW() {
-		System.out.println("****hello world");
+		System.out.println("****hello world-small-change");
 	}
 }
